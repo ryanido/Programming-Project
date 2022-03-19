@@ -1,0 +1,13 @@
+final int SCREENX = 320;
+final int SCREENY = 240;
+final int ALIEN_HEIGHT = 20;
+final int ALIEN_WIDTH = 20;
+final int BULLET_HEIGHT = 2;
+final int BULLET_WIDTH = 2;
+final int BOMB_HEIGHT = 10;
+final int BOMB_WIDTH = 10;
+final int PADDLEHEIGHT = 15;
+final int PADDLEWIDTH = 50;
+final int MARGIN = 10;
+final int STARTINGLIVES = 3;
+final int GAP = 10;
